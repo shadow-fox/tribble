@@ -1,2 +1,2 @@
-restapi/i*
+restapi/*
 *.pyc
